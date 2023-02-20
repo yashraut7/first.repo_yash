@@ -1,1 +1,2 @@
-print('yash raut')
+x=('yash raut')
+print(x)
